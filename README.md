@@ -1,6 +1,6 @@
-# Unit Conversion App
+# Unit Conversion App (In Progress)
 
-A new Flutter application buld for Responsive UI.
+A new Flutter application build for Responsive UI.
 
 ## Getting Started
 
