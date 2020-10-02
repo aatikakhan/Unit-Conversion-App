@@ -1,6 +1,6 @@
-# helloapp
+# Unit Conversion App
 
-A new Flutter application.
+A new Flutter application buld for Responsive UI.
 
 ## Getting Started
 
